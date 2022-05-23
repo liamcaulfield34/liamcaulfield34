@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liamcaulfield34
-- 👀 I’m interested in utilizing data science and analytics to better understand the multiple environmental crises we currently face. With a B.S. in Geology and five years of professional experience as a Wilderness Park Ranger, I have seen first hand the scope of the problem and the painful absence of proper ata approaches being applied to said problems. I believe to better fight the problem, we must first better understand the problem - and the root of that solution lies in data. My degree and 
-- 🌱 I’m currently learning Python and GIS Optimization, JavaScript, and taking fundamental math courses (Statistics, Linear Algebra, Linear Regression). 
+- 👀 I’m interested in utilizing data science and analytics to better understand the multiple environmental crises we currently face. With a B.S. in Geology and five years of professional experience as a Wilderness Park Ranger, I have seen first hand the scope of the problem and the painful absence of proper analytical approaches being applied to said problems. I believe to better fight the problem, we must better understand the problem - and the root of that solution lies in data. My degree and 
+- 🌱 I’m currently learning Python and GIS Optimization and taking fundamental math courses (Statistics, Linear Algebra, Linear Regression). 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
